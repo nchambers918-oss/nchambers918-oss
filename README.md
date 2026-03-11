@@ -1,4 +1,4 @@
-# 👋 Hi, I’m a SProduct Manager in Healthcare Technology
+# 👋 Hi, I’m a Product Manager in Healthcare Technology
 
 I’m a **Product Manager** specializing in **healthcare technology**, with a track record of building products that improve clinical workflows, patient access, **interoperability, regulatory complexity, user centered and design** are areas I've sharpend my skills in.
 
