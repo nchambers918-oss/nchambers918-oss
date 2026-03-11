@@ -52,7 +52,7 @@ I’m always interested in conversations about:
 - Scaling B2B SaaS in regulated industries  
 - Product leadership and mentorship  
 
-👉 **LinkedIn:** [_add link_ ](https://www.linkedin.com/in/nchambers918/) 
+👉 **LinkedIn:** https://www.linkedin.com/in/nchambers918/
 👉 **Email:** nchambers918@gmail.com
 
 ---
