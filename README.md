@@ -1,4 +1,4 @@
-# 👋 Hi, I’m a Product Manager in Healthcare Technology
+# Hi, I’m a Product Manager in Healthcare Technology
 
 I’m a **Product Manager** specializing in **healthcare technology**, with a track record of building products that improve clinical workflows, patient access, **interoperability, regulatory complexity, user centered and design** are areas I've sharpend my skills in.
 
@@ -6,23 +6,23 @@ I’m especially motivated by products that reduce patient friction in healthcar
 
 ---
 
-## 🔍 Current Focus
+## Current Focus
 
-- 🏥 **Interoperability & Standards**  
+- **Interoperability & Standards**  
   Building products aligned with HL7® FHIR®, NCPDP, and real-world payer/provider workflows.
 
-- 📈 **Outcome-Driven Product Strategy**  
+- **Outcome-Driven Product Strategy**  
   Connecting roadmap decisions to adoption, revenue, and customer impact.
 
-- 🤝 **Cross-Functional Leadership**  
+- **Cross-Functional Leadership**  
   Partnering closely with dev engineering, design, clinical, legal, and marketing teams.
 
-- ⚖️ **Healthcare Compliance & Trust**  
+- **Healthcare Compliance & Trust**  
   Designing for HIPAA compliant architectures, and enterprise reliability.
 
 ---
 
-## 🧠 Skills & Expertise
+## Skills & Expertise
 
 | Category | Skills |
 |--------|-------|
@@ -36,7 +36,7 @@ I’m especially motivated by products that reduce patient friction in healthcar
 
 ---
 
-## 🛠️ Tools I Work With
+## Tools I Work With
 
 - **Product:** Jira, Confluence, Aha!, Productboard
 - **Design & Research:** Figma, Claude, Copilot
@@ -45,15 +45,15 @@ I’m especially motivated by products that reduce patient friction in healthcar
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 I’m always interested in conversations about:
 - Healthcare Tech strategy  
 - Scaling B2B SaaS in regulated industries  
 - Product leadership and mentorship  
 
-👉 **LinkedIn:** https://www.linkedin.com/in/nchambers918/
-👉 **Email:** nchambers918@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/nchambers918/
+**Email:** nchambers918@gmail.com
 
 ---
 
